@@ -1,3 +1,10 @@
+#Intellij files
+Java8.iml
+misc.xml
+modules.xml
+qaplug_profiles.xml
+workspace.xml
+
 # Compiled class file
 *.class
 
